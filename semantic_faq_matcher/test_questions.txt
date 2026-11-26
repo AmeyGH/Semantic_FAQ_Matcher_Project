@@ -1,0 +1,16 @@
+Suggested practical demo questions
+
+1. I cannot remember my login password
+   Expected match: How do I reset my password?
+
+2. Where can I find the classes I joined?
+   Expected match: Where can I see my course details?
+
+3. I paid two times by mistake
+   Expected match: I was charged twice. What should I do?
+
+4. My course completion is not showing
+   Expected match: Why is my progress not updating?
+
+5. What is the capital of Japan?
+   Expected behaviour: ideally no sufficiently close FAQ, depending on the selected threshold.
